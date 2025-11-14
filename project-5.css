@@ -1,0 +1,61 @@
+.name{
+    font-family: "Play", sans-serif;
+  font-weight: 1000;
+  font-style: normal;
+}
+.para{
+    font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+}
+
+.ico-1  {
+  color: grey;
+ 
+  
+}
+.ico-1:hover{
+  color: green;
+}
+.ht{
+  color: grey;
+}
+.ht:hover{
+  color:orangered;
+}
+.css{
+  color: grey;
+}
+.css:hover{
+  color: blue;
+}
+.js{
+  color: gray;
+}
+.js:hover{
+  color: rgb(158, 158, 14);
+}
+
+.bs{
+  color: gray;
+}
+.bs:hover{
+  color: rgb(144, 113, 216);
+}
+.re{
+  color: gray;
+}
+.re:hover{
+  color: lightskyblue;
+}
+.nj{
+  color: gray;
+}
+.nj:hover{
+  color: green;
+}
+.py{
+  color: gray;
+}
+.py:hover{
+  color:rgb(50,108,155);
+}
